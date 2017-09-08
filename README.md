@@ -3,6 +3,13 @@
 ## Description
 A smarter auto-match system for DOTA2 players.
 
+## Final Product
+!["Main page of Buddy Up where users see potential matches"](https://github.com/johnwonghw/BuddyUp/blob/master/docs/Screen%20Shot%202017-09-02%20at%205.31.07%20PM.png?raw=true)
+!["Notification popup when another user sends a friend request"](https://github.com/johnwonghw/BuddyUp/blob/master/docs/Screen%20Shot%202017-09-02%20at%205.34.42%20PM.png?raw=true)
+!["Private chat opens for matched users"](https://github.com/johnwonghw/BuddyUp/blob/master/docs/Screen%20Shot%202017-09-02%20at%205.49.19%20PM.png?raw=true)
+!["Profile page where users can edit their information"]
+(https://github.com/johnwonghw/BuddyUp/blob/master/docs/Screen%20Shot%202017-09-02%20at%205.50.04%20PM.png?raw=true)
+
 ## Getting Started
 
 ### Server side
